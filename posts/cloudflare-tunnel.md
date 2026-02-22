@@ -12,7 +12,7 @@ Cloudflare also provides browser-based SSH. From a phone, including an iPhone, I
 flowchart LR
     A[Local Machine] --> B[cloudflared]
     B --> C[Cloudflare Edge]
-    C --> D[Access Policy (OTP)]
+    C --> D["Access Policy (OTP)"]
     D --> E[Browser SSH Session]
 ```
 
