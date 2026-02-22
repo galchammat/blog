@@ -1,3 +1,13 @@
+---
+title: Accessing Servers Behind Strict Firewalls Using Cloudflare
+published: true
+description: Practical notes on using Cloudflare Tunnel for SSH, browser access, and exposing local services.
+tags:
+  - cloudflare
+  - networking
+  - devops
+---
+
 # Notes on Using Cloudflare Tunnel
 
 I’ve been using Cloudflare Tunnel in a few different setups.
